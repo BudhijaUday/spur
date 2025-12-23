@@ -1,4 +1,6 @@
 # Spur AI Chat Agent
+<img width="606" height="821" alt="image" src="https://github.com/user-attachments/assets/1587f31d-4505-4646-b536-958a14eedf6a" />
+
 
 A mini AI support agent for a live chat widget, built with Node.js, TypeScript, SQLite, and SvelteKit.
 
@@ -18,7 +20,7 @@ A mini AI support agent for a live chat widget, built with Node.js, TypeScript, 
 
 ### Prerequisites
 - Node.js (v18+)
-- OpenAI API Key
+- Groq API Key
 
 ### 1. Backend
 ```bash
